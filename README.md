@@ -1,4 +1,3 @@
----
 # cache-bench
 
 Measures which request changes break prompt-cache prefix matching, and (with a live API key) what that does to cached-token counts.
